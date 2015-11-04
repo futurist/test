@@ -2,3 +2,6 @@ some line here
 line 2 from local
 
 line 3 from remote
+
+line 4 from remote
+
