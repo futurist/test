@@ -6,4 +6,7 @@ line 3 from remote
 line 4 from remote
 
 line 5 remote ly
+<<<<<<< HEAD
 line 5 local
+=======
+>>>>>>> c329500403b9c3794646b67f2631f62cb6cad9b1
